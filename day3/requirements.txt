@@ -1,0 +1,8 @@
+langchain-groq
+langchain-community
+langgraph
+arize-phoenix
+arize-otel
+openinference-instrumentation-langchain
+arize[AutoEmbeddings]
+ipykernel
