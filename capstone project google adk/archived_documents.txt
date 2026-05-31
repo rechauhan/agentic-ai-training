@@ -1,0 +1,61 @@
+[2026-05-31T15:24:09.260728] Archived non-compliance entity document: 02_trademark_infringement_tech.pdf
+[2026-05-31T15:25:03.592862] Archived non-compliance entity document: 08_non_compete_violation.pdf
+[2026-05-31T15:25:05.335684] Archived non-compliance entity document: 09_copyright_infringement_music.pdf
+[2026-05-31T15:25:38.830450] Archived non-compliance entity document: bw_doc_4.pdf
+[2026-05-31T15:26:14.434272] Archived non-compliance entity document: LOA6.pdf
+[2026-05-31T15:26:15.332079] Archived non-compliance entity document: LOA7.pdf
+[2026-05-31T15:26:16.243739] Archived non-compliance entity document: LOA8.pdf
+[2026-05-31T15:26:34.180598] Archived non-compliance entity document: notice_4.pdf
+[2026-05-31T15:26:38.157393] Archived non-compliance entity document: notice_5.pdf
+[2026-05-31T16:59:16.522193] Archived non-compliance entity document: 05_patent_infringement_medical_device.pdf
+[2026-05-31T16:59:28.446361] Archived non-compliance entity document: 08_non_compete_violation.pdf
+[2026-05-31T16:59:38.953169] Archived non-compliance entity document: 10_breach_of_contract_nda.pdf
+[2026-05-31T17:00:10.359410] Archived non-compliance entity document: LOA3.pdf
+[2026-05-31T17:00:11.417937] Archived non-compliance entity document: LOA4.pdf
+[2026-05-31T17:00:19.870712] Archived non-compliance entity document: LOA7.pdf
+[2026-05-31T17:00:35.602276] Archived non-compliance entity document: notice_3.pdf
+[2026-05-31T17:00:40.629018] Archived non-compliance entity document: notice_5.pdf
+[2026-05-31T17:48:08.890491] Non-actionable document moved to archive: 02_trademark_infringement_tech.pdf
+[2026-05-31T17:48:11.698596] Non-actionable document moved to archive: 03_trade_secret_misappropriation.pdf
+[2026-05-31T17:48:12.651404] Non-actionable document moved to archive: 04_defamation_online_review.pdf
+[2026-05-31T17:48:13.192078] Non-actionable document moved to archive: 05_patent_infringement_medical_device.pdf
+[2026-05-31T17:48:13.485528] Non-actionable document moved to archive: 06_harassment_workplace.pdf
+[2026-05-31T17:48:13.707425] Non-actionable document moved to archive: 07_software_license_violation.pdf
+[2026-05-31T17:48:14.084212] Non-actionable document moved to archive: 08_non_compete_violation.pdf
+[2026-05-31T17:48:14.327522] Non-actionable document moved to archive: 09_copyright_infringement_music.pdf
+[2026-05-31T17:48:14.567289] Non-actionable document moved to archive: 10_breach_of_contract_nda.pdf
+[2026-05-31T17:48:14.747642] Non-actionable document moved to archive: bw_doc_1.pdf
+[2026-05-31T17:48:14.943143] Non-actionable document moved to archive: bw_doc_2.pdf
+[2026-05-31T17:48:15.138311] Non-actionable document moved to archive: bw_doc_3.pdf
+[2026-05-31T17:48:15.350119] Non-actionable document moved to archive: bw_doc_4.pdf
+[2026-05-31T17:48:15.538676] Non-actionable document moved to archive: bw_doc_5.pdf
+[2026-05-31T17:48:16.044379] Non-actionable document moved to archive: LoA1.pdf
+[2026-05-31T17:48:16.077033] Non-actionable document moved to archive: LOA2.pdf
+[2026-05-31T17:48:16.107996] Non-actionable document moved to archive: LOA3.pdf
+[2026-05-31T17:48:16.137914] Non-actionable document moved to archive: LOA4.pdf
+[2026-05-31T17:48:16.168413] Non-actionable document moved to archive: LOA5.pdf
+[2026-05-31T17:48:16.198759] Non-actionable document moved to archive: LOA6.pdf
+[2026-05-31T17:48:16.228928] Non-actionable document moved to archive: LOA7.pdf
+[2026-05-31T17:48:16.258990] Non-actionable document moved to archive: LOA8.pdf
+[2026-05-31T17:48:16.289409] Non-actionable document moved to archive: LOA9.pdf
+[2026-05-31T17:48:16.319398] Non-actionable document moved to archive: notice_1.pdf
+[2026-05-31T17:48:16.351824] Non-actionable document moved to archive: notice_2.pdf
+[2026-05-31T17:48:16.381165] Non-actionable document moved to archive: notice_3.pdf
+[2026-05-31T17:48:16.410171] Non-actionable document moved to archive: notice_4.pdf
+[2026-05-31T17:48:16.439593] Non-actionable document moved to archive: notice_5.pdf
+{"date_received": "2026-05-31", "document_name": "02_trademark_infringement_tech.pdf"}
+{"date_received": "2026-05-31", "document_name": "03_trade_secret_misappropriation.pdf"}
+{"date_received": "2026-05-31", "document_name": "05_patent_infringement_medical_device.pdf"}
+{"date_received": "2026-05-31", "document_name": "06_harassment_workplace.pdf"}
+{"date_received": "2026-05-31", "document_name": "10_breach_of_contract_nda.pdf"}
+{"date_received": "2026-05-31", "document_name": "bw_doc_4.pdf"}
+{"date_received": "2026-05-31", "document_name": "bw_doc_5.pdf"}
+{"date_received": "2026-05-31", "document_name": "LOA2.pdf"}
+{"date_received": "2026-05-31", "document_name": "LOA3.pdf"}
+{"date_received": "2026-05-31", "document_name": "LOA6.pdf"}
+{"date_received": "2026-05-31", "document_name": "LOA7.pdf"}
+{"date_received": "2026-05-31", "document_name": "LOA8.pdf"}
+{"date_received": "2026-05-31", "document_name": "LOA9.pdf"}
+{"date_received": "2026-05-31", "document_name": "notice_2.pdf"}
+{"date_received": "2026-05-31", "document_name": "notice_4.pdf"}
+{"date_received": "2026-05-31", "document_name": "notice_5.pdf"}

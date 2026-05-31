@@ -1,0 +1,11 @@
+# Google Agent Development Kit Core
+google-adk>=0.1.0
+
+# LLM Framework Routing Engine
+litellm>=1.0.0
+
+# Data Validation and Structuring 
+pydantic>=2.0.0
+
+# Utilities
+pathlib>=1.0.1

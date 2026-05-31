@@ -1,0 +1,116 @@
+{"timestamp": "2026-05-31T15:23:59.608741", "document_name": "01_copyright_infringement_photography.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:24:09.261028", "document_name": "02_trademark_infringement_tech.pdf", "classification": "Irrelevant", "action_taken": "Sent to cold flat archive storage", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:24:20.623048", "document_name": "03_trade_secret_misappropriation.pdf", "classification": "Rejected", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:24:28.930112", "document_name": "04_defamation_online_review.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:24:42.052703", "document_name": "05_patent_infringement_medical_device.pdf", "classification": "Rejected", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:24:52.997225", "document_name": "06_harassment_workplace.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:25:01.227198", "document_name": "07_software_license_violation.pdf", "classification": "Rejected", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:25:03.593341", "document_name": "08_non_compete_violation.pdf", "classification": "Irrelevant", "action_taken": "Sent to cold flat archive storage", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:25:05.335954", "document_name": "09_copyright_infringement_music.pdf", "classification": "Irrelevant", "action_taken": "Sent to cold flat archive storage", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:25:11.288627", "document_name": "10_breach_of_contract_nda.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:25:28.884524", "document_name": "bw_doc_1.pdf", "classification": "Rejected", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:25:32.772167", "document_name": "bw_doc_2.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:25:35.639238", "document_name": "bw_doc_3.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:25:38.830750", "document_name": "bw_doc_4.pdf", "classification": "Irrelevant", "action_taken": "Sent to cold flat archive storage", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:25:42.380576", "document_name": "bw_doc_5.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:25:50.146426", "document_name": "LoA1.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:25:55.847520", "document_name": "LOA2.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:26:02.245180", "document_name": "LOA3.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:26:06.489600", "document_name": "LOA4.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:26:10.093959", "document_name": "LOA5.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:26:14.434580", "document_name": "LOA6.pdf", "classification": "Irrelevant", "action_taken": "Sent to cold flat archive storage", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:26:15.332399", "document_name": "LOA7.pdf", "classification": "Irrelevant", "action_taken": "Sent to cold flat archive storage", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:26:16.244059", "document_name": "LOA8.pdf", "classification": "Irrelevant", "action_taken": "Sent to cold flat archive storage", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:26:18.916157", "document_name": "LOA9.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:26:23.617748", "document_name": "notice_1.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:26:27.999643", "document_name": "notice_2.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:26:31.730161", "document_name": "notice_3.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:26:34.218635", "document_name": "notice_4.pdf", "classification": "Irrelevant", "action_taken": "Sent to cold flat archive storage", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T15:26:38.157672", "document_name": "notice_5.pdf", "classification": "Irrelevant", "action_taken": "Sent to cold flat archive storage", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T16:59:02.276314", "document_name": "01_copyright_infringement_photography.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T16:59:07.683387", "document_name": "02_trademark_infringement_tech.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T16:59:11.545661", "document_name": "03_trade_secret_misappropriation.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T16:59:14.848706", "document_name": "04_defamation_online_review.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T16:59:16.522446", "document_name": "05_patent_infringement_medical_device.pdf", "classification": "Irrelevant", "action_taken": "Sent to cold flat archive storage", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T16:59:20.894366", "document_name": "06_harassment_workplace.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T16:59:25.889217", "document_name": "07_software_license_violation.pdf", "classification": "Rejected", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T16:59:28.446697", "document_name": "08_non_compete_violation.pdf", "classification": "Irrelevant", "action_taken": "Sent to cold flat archive storage", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T16:59:36.223811", "document_name": "09_copyright_infringement_music.pdf", "classification": "Rejected", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T16:59:38.953518", "document_name": "10_breach_of_contract_nda.pdf", "classification": "Irrelevant", "action_taken": "Sent to cold flat archive storage", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T16:59:44.649770", "document_name": "bw_doc_1.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T16:59:48.162741", "document_name": "bw_doc_2.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T16:59:53.981932", "document_name": "bw_doc_3.pdf", "classification": "Rejected", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T16:59:58.512705", "document_name": "bw_doc_4.pdf", "classification": "Rejected", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T17:00:01.881971", "document_name": "bw_doc_5.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T17:00:04.998922", "document_name": "LoA1.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T17:00:08.348101", "document_name": "LOA2.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T17:00:10.359793", "document_name": "LOA3.pdf", "classification": "Irrelevant", "action_taken": "Sent to cold flat archive storage", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T17:00:11.418312", "document_name": "LOA4.pdf", "classification": "Irrelevant", "action_taken": "Sent to cold flat archive storage", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T17:00:14.177255", "document_name": "LOA5.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T17:00:18.040528", "document_name": "LOA6.pdf", "classification": "Rejected", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T17:00:19.870963", "document_name": "LOA7.pdf", "classification": "Irrelevant", "action_taken": "Sent to cold flat archive storage", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T17:00:23.719909", "document_name": "LOA8.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T17:00:27.988681", "document_name": "LOA9.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T17:00:30.823986", "document_name": "notice_1.pdf", "classification": "Rejected", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T17:00:34.702958", "document_name": "notice_2.pdf", "classification": "Cease", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T17:00:35.602538", "document_name": "notice_3.pdf", "classification": "Irrelevant", "action_taken": "Sent to cold flat archive storage", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T17:00:38.913340", "document_name": "notice_4.pdf", "classification": "Rejected", "action_taken": "Database Persistence Complete", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T17:00:40.629403", "document_name": "notice_5.pdf", "classification": "Irrelevant", "action_taken": "Sent to cold flat archive storage", "validation_gaps": "None"}
+{"timestamp": "2026-05-31T17:48:08.399260", "summary": "Doc: 01_copyright_infringement_photography.pdf | Cls: Cease | Gaps Remediated: authorized_party."}
+{"timestamp": "2026-05-31T17:48:08.890749", "summary": "Archived irrelevant file stream tracking: 02_trademark_infringement_tech.pdf"}
+{"timestamp": "2026-05-31T17:48:11.698906", "summary": "Archived irrelevant file stream tracking: 03_trade_secret_misappropriation.pdf"}
+{"timestamp": "2026-05-31T17:48:12.651677", "summary": "Archived irrelevant file stream tracking: 04_defamation_online_review.pdf"}
+{"timestamp": "2026-05-31T17:48:13.192362", "summary": "Archived irrelevant file stream tracking: 05_patent_infringement_medical_device.pdf"}
+{"timestamp": "2026-05-31T17:48:13.485831", "summary": "Archived irrelevant file stream tracking: 06_harassment_workplace.pdf"}
+{"timestamp": "2026-05-31T17:48:13.707646", "summary": "Archived irrelevant file stream tracking: 07_software_license_violation.pdf"}
+{"timestamp": "2026-05-31T17:48:14.084408", "summary": "Archived irrelevant file stream tracking: 08_non_compete_violation.pdf"}
+{"timestamp": "2026-05-31T17:48:14.327779", "summary": "Archived irrelevant file stream tracking: 09_copyright_infringement_music.pdf"}
+{"timestamp": "2026-05-31T17:48:14.567572", "summary": "Archived irrelevant file stream tracking: 10_breach_of_contract_nda.pdf"}
+{"timestamp": "2026-05-31T17:48:14.747879", "summary": "Archived irrelevant file stream tracking: bw_doc_1.pdf"}
+{"timestamp": "2026-05-31T17:48:14.943374", "summary": "Archived irrelevant file stream tracking: bw_doc_2.pdf"}
+{"timestamp": "2026-05-31T17:48:15.138568", "summary": "Archived irrelevant file stream tracking: bw_doc_3.pdf"}
+{"timestamp": "2026-05-31T17:48:15.350409", "summary": "Archived irrelevant file stream tracking: bw_doc_4.pdf"}
+{"timestamp": "2026-05-31T17:48:15.538947", "summary": "Archived irrelevant file stream tracking: bw_doc_5.pdf"}
+{"timestamp": "2026-05-31T17:48:16.044706", "summary": "Archived irrelevant file stream tracking: LoA1.pdf"}
+{"timestamp": "2026-05-31T17:48:16.077250", "summary": "Archived irrelevant file stream tracking: LOA2.pdf"}
+{"timestamp": "2026-05-31T17:48:16.108219", "summary": "Archived irrelevant file stream tracking: LOA3.pdf"}
+{"timestamp": "2026-05-31T17:48:16.138131", "summary": "Archived irrelevant file stream tracking: LOA4.pdf"}
+{"timestamp": "2026-05-31T17:48:16.168899", "summary": "Archived irrelevant file stream tracking: LOA5.pdf"}
+{"timestamp": "2026-05-31T17:48:16.199042", "summary": "Archived irrelevant file stream tracking: LOA6.pdf"}
+{"timestamp": "2026-05-31T17:48:16.229215", "summary": "Archived irrelevant file stream tracking: LOA7.pdf"}
+{"timestamp": "2026-05-31T17:48:16.259224", "summary": "Archived irrelevant file stream tracking: LOA8.pdf"}
+{"timestamp": "2026-05-31T17:48:16.289616", "summary": "Archived irrelevant file stream tracking: LOA9.pdf"}
+{"timestamp": "2026-05-31T17:48:16.319826", "summary": "Archived irrelevant file stream tracking: notice_1.pdf"}
+{"timestamp": "2026-05-31T17:48:16.352205", "summary": "Archived irrelevant file stream tracking: notice_2.pdf"}
+{"timestamp": "2026-05-31T17:48:16.381480", "summary": "Archived irrelevant file stream tracking: notice_3.pdf"}
+{"timestamp": "2026-05-31T17:48:16.410425", "summary": "Archived irrelevant file stream tracking: notice_4.pdf"}
+{"timestamp": "2026-05-31T17:48:16.439798", "summary": "Archived irrelevant file stream tracking: notice_5.pdf"}
+{"timestamp": "2026-05-31T18:00:35.616057", "summary": "Doc: 01_copyright_infringement_photography.pdf | Cls: Cease | Logic: Resolved via Human-in-the-Loop intervention override to: Cease | Action: Saved to SQL Store | Gaps Remediated: authorized_party."}
+{"timestamp": "2026-05-31T18:00:38.893969", "summary": "Doc: 02_trademark_infringement_tech.pdf | Cls: Irrelevant | Logic: Resolved via Human-in-the-Loop intervention override to: Irrelevant | Action: Archived to flat file."}
+{"timestamp": "2026-05-31T18:00:41.069363", "summary": "Doc: 03_trade_secret_misappropriation.pdf | Cls: Irrelevant | Logic: Resolved via Human-in-the-Loop intervention override to: Irrelevant | Action: Archived to flat file."}
+{"timestamp": "2026-05-31T18:00:43.216676", "summary": "Doc: 04_defamation_online_review.pdf | Cls: Cease | Logic: Resolved via Human-in-the-Loop intervention override to: Cease | Action: Saved to SQL Store | Gaps Remediated: authorized_party."}
+{"timestamp": "2026-05-31T18:00:44.219520", "summary": "Doc: 05_patent_infringement_medical_device.pdf | Cls: Irrelevant | Logic: Resolved via Human-in-the-Loop intervention override to: Irrelevant | Action: Archived to flat file."}
+{"timestamp": "2026-05-31T18:00:47.392712", "summary": "Doc: 06_harassment_workplace.pdf | Cls: Irrelevant | Logic: Resolved via Human-in-the-Loop intervention override to: Irrelevant | Action: Archived to flat file."}
+{"timestamp": "2026-05-31T18:00:51.394710", "summary": "Doc: 07_software_license_violation.pdf | Cls: Cease | Logic: Resolved via Human-in-the-Loop intervention override to: Cease | Action: Saved to SQL Store | Gaps Remediated: authorized_party."}
+{"timestamp": "2026-05-31T18:00:53.145643", "summary": "Doc: 08_non_compete_violation.pdf | Cls: Cease | Logic: Resolved via Human-in-the-Loop intervention override to: Cease | Action: Saved to SQL Store | Gaps Remediated: authorized_party."}
+{"timestamp": "2026-05-31T18:00:55.992526", "summary": "Doc: 09_copyright_infringement_music.pdf | Cls: Cease | Logic: Resolved via Human-in-the-Loop intervention override to: Cease | Action: Saved to SQL Store | Gaps Remediated: authorized_party."}
+{"timestamp": "2026-05-31T18:00:56.883425", "summary": "Doc: 10_breach_of_contract_nda.pdf | Cls: Irrelevant | Logic: Resolved via Human-in-the-Loop intervention override to: Irrelevant | Action: Archived to flat file."}
+{"timestamp": "2026-05-31T18:01:00.417917", "summary": "Doc: bw_doc_1.pdf | Cls: Cease | Logic: Resolved via Human-in-the-Loop intervention override to: Cease | Action: Saved to SQL Store | Gaps Remediated: authorized_party."}
+{"timestamp": "2026-05-31T18:01:02.832432", "summary": "Doc: bw_doc_2.pdf | Cls: Cease | Logic: Resolved via Human-in-the-Loop intervention override to: Cease | Action: Saved to SQL Store | Gaps Remediated: authorized_party."}
+{"timestamp": "2026-05-31T18:01:04.913805", "summary": "Doc: bw_doc_3.pdf | Cls: Cease | Logic: Resolved via Human-in-the-Loop intervention override to: Cease | Action: Saved to SQL Store | Gaps Remediated: authorized_party."}
+{"timestamp": "2026-05-31T18:01:06.068894", "summary": "Doc: bw_doc_4.pdf | Cls: Irrelevant | Logic: Resolved via Human-in-the-Loop intervention override to: Irrelevant | Action: Archived to flat file."}
+{"timestamp": "2026-05-31T18:01:08.113568", "summary": "Doc: bw_doc_5.pdf | Cls: Irrelevant | Logic: Resolved via Human-in-the-Loop intervention override to: Irrelevant | Action: Archived to flat file."}
+{"timestamp": "2026-05-31T18:01:09.939942", "summary": "Doc: LoA1.pdf | Cls: Cease | Logic: Resolved via Human-in-the-Loop intervention override to: Cease | Action: Saved to SQL Store | Gaps Remediated: authorized_party."}
+{"timestamp": "2026-05-31T18:01:10.990668", "summary": "Doc: LOA2.pdf | Cls: Irrelevant | Logic: Resolved via Human-in-the-Loop intervention override to: Irrelevant | Action: Archived to flat file."}
+{"timestamp": "2026-05-31T18:01:11.987007", "summary": "Doc: LOA3.pdf | Cls: Irrelevant | Logic: Resolved via Human-in-the-Loop intervention override to: Irrelevant | Action: Archived to flat file."}
+{"timestamp": "2026-05-31T18:01:13.974891", "summary": "Doc: LOA4.pdf | Cls: Cease | Logic: Resolved via Human-in-the-Loop intervention override to: Cease | Action: Saved to SQL Store | Gaps Remediated: authorized_party."}
+{"timestamp": "2026-05-31T18:01:16.318363", "summary": "Doc: LOA5.pdf | Cls: Cease | Logic: Resolved via Human-in-the-Loop intervention override to: Cease | Action: Saved to SQL Store | Gaps Remediated: authorized_party."}
+{"timestamp": "2026-05-31T18:01:17.321455", "summary": "Doc: LOA6.pdf | Cls: Irrelevant | Logic: Resolved via Human-in-the-Loop intervention override to: Irrelevant | Action: Archived to flat file."}
+{"timestamp": "2026-05-31T18:01:18.143731", "summary": "Doc: LOA7.pdf | Cls: Irrelevant | Logic: Resolved via Human-in-the-Loop intervention override to: Irrelevant | Action: Archived to flat file."}
+{"timestamp": "2026-05-31T18:01:18.933703", "summary": "Doc: LOA8.pdf | Cls: Irrelevant | Logic: Resolved via Human-in-the-Loop intervention override to: Irrelevant | Action: Archived to flat file."}
+{"timestamp": "2026-05-31T18:01:21.844087", "summary": "Doc: LOA9.pdf | Cls: Irrelevant | Logic: Resolved via Human-in-the-Loop intervention override to: Irrelevant | Action: Archived to flat file."}
+{"timestamp": "2026-05-31T18:01:23.680808", "summary": "Doc: notice_1.pdf | Cls: Cease | Logic: Resolved via Human-in-the-Loop intervention override to: Cease | Action: Saved to SQL Store | Gaps Remediated: authorized_party."}
+{"timestamp": "2026-05-31T18:01:24.946864", "summary": "Doc: notice_2.pdf | Cls: Irrelevant | Logic: Resolved via Human-in-the-Loop intervention override to: Irrelevant | Action: Archived to flat file."}
+{"timestamp": "2026-05-31T18:01:27.020580", "summary": "Doc: notice_3.pdf | Cls: Cease | Logic: Resolved via Human-in-the-Loop intervention override to: Cease | Action: Saved to SQL Store | Gaps Remediated: authorized_party."}
+{"timestamp": "2026-05-31T18:01:28.509633", "summary": "Doc: notice_4.pdf | Cls: Irrelevant | Logic: Resolved via Human-in-the-Loop intervention override to: Irrelevant | Action: Archived to flat file."}
+{"timestamp": "2026-05-31T18:01:29.353667", "summary": "Doc: notice_5.pdf | Cls: Irrelevant | Logic: Resolved via Human-in-the-Loop intervention override to: Irrelevant | Action: Archived to flat file."}
